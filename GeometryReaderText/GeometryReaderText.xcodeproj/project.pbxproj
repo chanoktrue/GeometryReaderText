@@ -11,6 +11,7 @@
 		CD56EFCF268EA6F000A73C04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD56EFCE268EA6F000A73C04 /* ContentView.swift */; };
 		CD56EFD1268EA6F400A73C04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD56EFD0268EA6F400A73C04 /* Assets.xcassets */; };
 		CD56EFD4268EA6F400A73C04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD56EFD3268EA6F400A73C04 /* Preview Assets.xcassets */; };
+		CD56EFDE268EAF4400A73C04 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD56EFDD268EAF4400A73C04 /* ContentView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CD56EFD0268EA6F400A73C04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD56EFD3268EA6F400A73C04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CD56EFD5268EA6F400A73C04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD56EFDD268EAF4400A73C04 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView2.swift; path = ../../../../../../ContentView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				CD56EFCC268EA6F000A73C04 /* GeometryReaderTextApp.swift */,
 				CD56EFCE268EA6F000A73C04 /* ContentView.swift */,
+				CD56EFDD268EAF4400A73C04 /* ContentView2.swift */,
 				CD56EFD0268EA6F400A73C04 /* Assets.xcassets */,
 				CD56EFD5268EA6F400A73C04 /* Info.plist */,
 				CD56EFD2268EA6F400A73C04 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD56EFDE268EAF4400A73C04 /* ContentView2.swift in Sources */,
 				CD56EFCF268EA6F000A73C04 /* ContentView.swift in Sources */,
 				CD56EFCD268EA6F000A73C04 /* GeometryReaderTextApp.swift in Sources */,
 			);

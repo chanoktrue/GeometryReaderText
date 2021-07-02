@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        
 //        GeometryReader { geo in
 //            ImageContent()
 //                .position(x: geo.size.width / 2, y: geo.size.height / 2)
