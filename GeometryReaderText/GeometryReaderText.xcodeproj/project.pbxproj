@@ -12,6 +12,8 @@
 		CD56EFD1268EA6F400A73C04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD56EFD0268EA6F400A73C04 /* Assets.xcassets */; };
 		CD56EFD4268EA6F400A73C04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD56EFD3268EA6F400A73C04 /* Preview Assets.xcassets */; };
 		CD56EFE0268EB1B100A73C04 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD56EFDF268EB1B100A73C04 /* ContentView2.swift */; };
+		CD56EFE2268EB84800A73C04 /* ContentView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD56EFE1268EB84800A73C04 /* ContentView3.swift */; };
+		CD56EFE4268EC1F100A73C04 /* ContentView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD56EFE3268EC1F100A73C04 /* ContentView4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		CD56EFD3268EA6F400A73C04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CD56EFD5268EA6F400A73C04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD56EFDF268EB1B100A73C04 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView2.swift; path = ../../../../../../../ContentView2.swift; sourceTree = "<group>"; };
+		CD56EFE1268EB84800A73C04 /* ContentView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView3.swift; path = ../../../../../../../ContentView3.swift; sourceTree = "<group>"; };
+		CD56EFE3268EC1F100A73C04 /* ContentView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView4.swift; path = ../../../../../../../ContentView4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				CD56EFCC268EA6F000A73C04 /* GeometryReaderTextApp.swift */,
 				CD56EFCE268EA6F000A73C04 /* ContentView.swift */,
 				CD56EFDF268EB1B100A73C04 /* ContentView2.swift */,
+				CD56EFE1268EB84800A73C04 /* ContentView3.swift */,
+				CD56EFE3268EC1F100A73C04 /* ContentView4.swift */,
 				CD56EFD0268EA6F400A73C04 /* Assets.xcassets */,
 				CD56EFD5268EA6F400A73C04 /* Info.plist */,
 				CD56EFD2268EA6F400A73C04 /* Preview Content */,
@@ -143,6 +149,8 @@
 			files = (
 				CD56EFE0268EB1B100A73C04 /* ContentView2.swift in Sources */,
 				CD56EFCF268EA6F000A73C04 /* ContentView.swift in Sources */,
+				CD56EFE2268EB84800A73C04 /* ContentView3.swift in Sources */,
+				CD56EFE4268EC1F100A73C04 /* ContentView4.swift in Sources */,
 				CD56EFCD268EA6F000A73C04 /* GeometryReaderTextApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
