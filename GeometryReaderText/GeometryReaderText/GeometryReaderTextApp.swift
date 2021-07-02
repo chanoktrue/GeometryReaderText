@@ -11,7 +11,7 @@ import SwiftUI
 struct GeometryReaderTextApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView4()
         }
     }
 }
